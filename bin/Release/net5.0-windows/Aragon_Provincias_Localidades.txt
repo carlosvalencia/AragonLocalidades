@@ -1,0 +1,1583 @@
+0#220000000#Huesca
+1#220010000#Abiego
+2#220010002#Alberuela de la Liena
+1#220020000#Abizanda
+2#220020002#Escanilla
+2#220020003#Lamata
+2#220020004#Ligüerre de Cinca
+2#220020005#Mesón de Ligüerre
+1#220030000#Adahuesca
+1#220040000#Agüero
+2#220040002#Sanfelices
+1#229070000#Aínsa-Sobrarbe
+2#229070002#Arcusa
+2#229070003#Arro
+2#229070004#Banastón
+2#229070005#Bellostas, Las
+2#229070006#Camporrotuno
+2#229070007#Castejón de Sobrarbe
+2#229070008#Castellazo
+2#229070009#Coscojuela de Sobrarbe
+2#229070010#Coscollar, El
+2#229070017#Gerbe
+2#229070021#Griebal
+2#229070011#Guaso
+2#229070018#Jabierre de Olsón
+2#229070012#Latorre
+2#229070013#Latorrecilla
+2#229070019#Mondot
+2#229070022#Morillo de Tou
+2#229070014#Olsón
+2#229070016#Paúles de Sarsa
+2#229070020#Santa María de Buil
+2#229070023#Sarsa de Surta
+1#220060000#Aisa
+2#220060002#Candanchú
+2#220060003#Esposa
+2#220060004#Sinués
+1#220070000#Albalate de Cinca
+1#220080000#Albalatillo
+1#220090000#Albelda
+1#220110000#Albero Alto
+1#220120000#Albero Bajo
+1#220130000#Alberuela de Tubo
+2#220130002#Sodeto
+1#220140000#Alcalá de Gurrea
+2#220140002#Tormos
+1#220150000#Alcalá del Obispo
+2#220150002#Fañanás
+2#220150003#Ola
+2#220150004#Pueyo de Fañanás
+1#220160000#Alcampell
+1#220170000#Alcolea de Cinca
+1#220180000#Alcubierre
+1#220190000#Alerre
+1#220200000#Alfántega
+1#220210000#Almudévar
+2#220210002#Artasona del Llano
+2#220210003#San Jorge
+2#220210004#Valsalada
+1#220220000#Almunia de San Juan
+2#220220002#Ariéstolas
+1#220230000#Almuniente
+2#220230002#Frula
+1#220240000#Alquézar
+2#220240002#Radiquero
+2#220240003#San Pelegrín
+1#220250000#Altorricón
+1#220270000#Angüés
+2#220270002#Bespén
+2#220270003#Velillas
+1#220280000#Ansó
+1#220290000#Antillón
+1#220320000#Aragüés del Puerto
+1#220350000#Arén
+2#220350002#Berganuy
+2#220350003#Betesa
+2#220350004#Campamento
+2#220350005#Casa Consistorial
+2#220350012#Iscles
+2#220350006#Molinos, Los
+2#220350007#Puimolar
+2#220350008#Rivera de Vall
+2#220350009#San Martín
+2#220350010#Sas, El
+2#220350011#Sobrecastell
+1#220360000#Argavieso
+1#220370000#Arguis
+2#220370002#Bentué de Rasal
+1#220390000#Ayerbe
+2#220390002#Fontellas
+2#220390003#Losanglis
+2#220400001#Alins del Monte
+1#220400000#Azanuy-Alins
+1#220410000#Azara
+1#220420000#Azlor
+1#220430000#Baélls
+2#220430002#Nachá
+2#220430003#Zurita
+2#220440001#Alastuey
+2#220440002#Arbués
+2#220440003#Arrés
+1#220440000#Bailo
+2#220440005#Larués
+1#220450000#Baldellou
+1#220460000#Ballobar
+1#220470000#Banastás
+1#220480000#Barbastro
+2#220480002#Burceat
+2#220480003#Cregenzán
+1#220490000#Barbués
+1#220500000#Barbuñales
+2#220510001#Almazorre
+1#220510000#Bárcabo
+2#220510003#Betorz
+2#220510004#Eripol
+2#220510005#Hospitaled
+2#220510006#Lecina
+2#220510007#Santa María de la Nuez
+2#220510008#Suelves
+1#220520000#Belver de Cinca
+2#220520002#Monte Julia
+2#220520003#San Miguel
+2#220520004#Valonga
+2#220530001#Aler
+2#220530002#Antenza
+1#220530000#Benabarre
+2#220530004#Caladrones
+2#220530005#Castillo del Pla
+2#220530006#Ciscar
+2#220530007#Estaña
+2#220530008#Pilzán
+2#220530009#Purroy de la Solana
+2#220540001#Anciles
+1#220540000#Benasque
+2#220540003#Cerler
+2#222460001#Ballabriga
+1#222460000#Beranuy
+2#222460003#Biascas de Obarra
+2#222460004#Calvera
+2#222460005#Herrerías, Las
+2#222460006#Moréns
+2#222460007#Pardinella
+1#220550000#Berbegal
+1#220570000#Bielsa
+2#220570002#Chisagüés
+2#220570003#Espierba
+2#220570004#Javierre
+2#220570005#Parzán
+2#220570006#Salinas de Bielsa
+2#220580001#Almunias de Rodellar, Las
+1#220580000#Bierge
+2#220580003#Morrano
+2#220580006#Otín
+2#220580005#Pedruel
+2#220580004#Rodellar
+2#220580007#San Román
+2#220580008#San Saturnino
+2#220580009#Yaso
+2#220590001#Aso de Sobremonte
+2#220590002#Barbenuta
+2#220590003#Betés de Sobremonte
+1#220590000#Biescas
+2#220590005#Escuer
+2#220590006#Espierre
+2#220590007#Gavín
+2#220590008#Javierre del Obispo
+2#220590009#Oliván
+2#220590010#Orós Alto
+2#220590012#Piedrafita de Jaca
+2#220590013#Yosa de Sobremonte
+1#220600000#Binaced
+2#220600002#Valcarca
+1#220610000#Binéfar
+2#220620001#Arasán
+1#220620000#Bisaurri
+2#220620007#Buyelgas
+2#220620008#Dos
+2#220620003#Gabás
+2#220620009#Muria, La
+2#220620010#Piedrafita
+2#220620011#Renanué
+2#220620004#San Feliú de Veri
+2#220620005#San Martín de Veri
+2#220620012#San Valero
+2#220620006#Urmella
+2#220620013#Verí
+1#220630000#Biscarrués
+2#220630002#Erés
+2#220630003#Piedramorrera
+2#220630004#Presa del Gállego
+2#220640001#Blecua
+1#220640000#Blecua y Torres
+2#220640002#Torres de Montes
+2#220660009#Aguilar
+2#220660001#Ascaso
+1#220660000#Boltaña
+2#220660003#Campodarbe
+2#220660004#Margudgued
+2#220660010#Matidero
+2#220660005#Morillo de Sampietro
+2#220660006#Pueyo de Morcat, El
+2#220660011#Seso
+2#220660007#Sieste
+2#220660012#Silves
+2#220660008#Valle, La
+2#220670004#Bibiles
+1#220670000#Bonansa
+2#220670005#Buira
+2#220670002#Cirés
+2#220670006#Espolla
+2#220670003#Gabarret
+2#220670007#Torre de Buira
+1#220680000#Borau
+2#220690001#Asín de Broto
+2#220690002#Bergua
+1#220690000#Broto
+2#220690004#Buesa
+2#220690005#Oto
+2#220690006#Sarvisé
+2#220720001#Anzánigo
+2#220720002#Aquilué
+1#220720000#Caldearenas
+2#220720004#Estallo
+2#220720005#Javierrelatre
+2#220720006#Latre
+2#220720007#San Vicente
+2#220720008#Serué
+2#220740001#Beleder
+1#220740000#Campo
+1#220750000#Camporrélls
+2#220760001#Berdún
+2#220760002#Biniés
+1#220760000#Canal de Berdún
+2#220760003#Majones
+2#220760004#Martes
+2#220760005#Villarreal de la Canal
+1#220770000#Candasnos
+1#220780000#Canfranc
+1#220790000#Capdesaso
+1#220800000#Capella
+2#220800002#Laguarres
+2#220800003#Pociello
+1#220810000#Casbas de Huesca
+2#220810002#Junzano
+2#220810003#Labata
+2#220810004#Panzano
+2#220810006#Santa Cilia de Panzano
+2#220810005#Sieso de Huesca
+1#220830000#Castejón de Monegros
+1#220840000#Castejón de Sos
+2#220840002#Liri
+2#220840003#Ramastué
+2#220840004#Run, El
+1#220820000#Castejón del Puente
+1#220850000#Castelflorite
+2#220860001#Aratorés
+1#220860000#Castiello de Jaca
+1#220870000#Castigaleu
+2#220870002#San Lorenzo
+1#220880000#Castillazuelo
+1#220890000#Castillonroy
+2#220890002#Piñana
+2#220890003#Santa Ana
+1#220940000#Chalamera
+1#220950000#Chía
+1#220960000#Chimillas
+2#220900001#Asque
+1#220900000#Colungo
+2#220990006#Bochosa, La
+2#220990011#Clamor de Ráfales, La
+2#220990012#Espartal, El
+1#220990000#Esplús
+2#220990008#Mapsa
+2#220990009#Moncasi
+2#220990002#Pueblas, Las
+2#220990010#Rolzasa
+2#220990004#Santa María del Pilar
+2#220990005#Torregrosa
+1#221020000#Estada
+1#221030000#Estadilla
+2#221050001#Caserras del Castillo
+2#221050002#Estopiñán
+1#221050000#Estopiñán del Castillo
+2#221050003#Saganta
+1#221060000#Fago
+2#221070001#Buerba
+2#221070002#Buisán
+1#221070000#Fanlo
+2#221070004#Nerín
+2#221070005#Vió
+2#221070006#Yeba
+2#221090001#Albella
+2#221090002#Arresa
+2#221090003#Borrastre
+1#221090000#Fiscal
+2#221090005#Jánovas
+2#221090006#Javierre de Ara
+2#221090007#Lacort
+2#221090008#Lardiés
+2#221090009#Ligüerre de Ara
+2#221090010#Planillo
+2#221090011#San Felices de Ara
+2#221090012#San Juste
+2#221090013#San Martín de Solana
+2#221090014#Santa Olaria de Ara
+2#221100001#Cofita
+1#221100000#Fonz
+2#221110001#Bacamorta
+2#221110002#Colladas, Las
+2#221110003#Espluga
+1#221110000#Foradada del Toscar
+2#221110005#Lacort
+2#221110006#Lascorz
+2#221110007#Morillo de Liena
+2#221110008#Navarri
+2#221110009#Senz
+2#221110010#Viu
+1#221120000#Fraga
+2#221120003#Litera
+2#221120002#Miralsot
+2#221130001#Alueza
+2#221130011#Aluján
+2#221130002#Atiart
+2#221130003#Buetas
+2#221130004#Cabezonada, La
+2#221130023#Caneto
+2#221130005#Charo
+2#221130024#Clamosa
+2#221130006#Formigales
+2#221130007#Fosado
+2#221130008#Fuendecampo
+1#221130000#Fueva, La
+2#221130009#Humo de Muro, El
+2#221130025#Lapenilla
+2#221130012#Mediano
+2#221130013#Morillo de Monclús
+2#221130014#Pocino, El
+2#221130015#Rañín
+2#221130016#Salinas de Trillo
+2#221130017#Samitier
+2#221130018#Samper
+2#221130019#San Juan
+2#221130020#Solipueyo
+2#221130021#Tierrantona
+2#221130026#Trillo
+2#221130022#Troncedo
+1#221140000#Gistaín
+2#221150001#Artasona
+2#221150002#Coscojuela de Fantova
+2#221150003#Enate
+1#221150000#Grado, El
+2#221150005#Tozal, El
+2#221160001#Callén
+2#221160002#Curbe
+2#221160003#Fraella
+1#221160000#Grañén
+2#221160005#Montesusín
+2#221170001#Abenozas
+2#221170002#Aguilar
+2#221170003#Aguinalíu
+2#221170004#Bellestar
+2#221170005#Benavente de Aragón
+2#221170006#Centenera
+2#221170007#Ejep
+1#221170000#Graus
+2#221170009#Güel
+2#221170010#Juseu
+2#221170011#Panillo
+2#221170012#Pano
+2#221170013#Puebla de Fantova, La
+2#221170014#Puebla del Mon, La
+2#221170015#Pueyo de Marguillén
+2#221170016#Soler, El
+2#221170017#Torre de Ésera
+2#221170018#Torre de Obato
+2#221170019#Torrelabad
+2#221170020#Torres del Obispo
+2#221170022#Tosquilla, La
+2#221170021#Ventas de Santa Lucía, Las
+1#221190000#Gurrea de Gállego
+2#221190004#Paúl, La
+2#221190005#Temple, El
+1#221220000#Hoz de Jaca
+2#229080001#Costean
+2#229080002#Guardia
+2#229080003#Hoz de Barbastro
+1#229080000#Hoz y Costean
+2#229080004#Montesa
+2#229080005#Salinas de Hoz
+1#221240000#Huerto
+2#221240002#Usón
+2#221240003#Venta de Ballerías
+2#221250001#Apiés
+2#221250002#Banariés
+2#221250003#Bellestar del Flumen
+2#221250004#Buñales
+2#221250005#Cuarte
+2#221250006#Fornillos de Apiés
+2#221250007#Huerrios
+1#221250000#Huesca
+2#221250009#Tabernas del Isuela
+1#221260000#Ibieca
+1#221270000#Igriés
+2#221270002#Yéqueda
+2#221280001#Fornillos
+1#221280000#Ilche
+2#221280003#Monesma
+2#221280004#Morilla
+2#221280005#Odina
+2#221280006#Permisán
+2#221290001#Esdolomada
+1#221290000#Isábena
+2#221290002#Merli
+2#221290003#Mont de Roda
+2#221290004#Puebla de Roda, La
+2#221290005#Riguala de Serraduy
+2#221290006#Roda de Isábena
+2#221290007#San Esteban del Mall
+2#221290008#Serraduy
+2#221290009#Vileta de Serraduy, La
+2#221300001#Abay
+2#221300002#Abena
+2#221300003#Ara
+2#221300004#Araguás del Solano
+2#221300005#Ascara
+2#221300006#Asieso
+2#221300007#Atarés
+2#221300033#Badaguás
+2#221300008#Banaguás
+2#221300010#Barós
+2#221300011#Bernués
+2#221300012#Bescós de Garcipollera
+2#221300013#Binué
+2#221300014#Botaya
+2#221300015#Caniás
+2#221300016#Espuéndolas
+2#221300034#Fraginal
+2#221300017#Gracionépel
+2#221300018#Guasa
+2#221300019#Guasillo
+2#221300020#Ipas
+1#221300000#Jaca
+2#221300022#Jarlata
+2#221300035#Lastiesas Altas
+2#221300023#Lerés
+2#221300024#Martillué
+2#221300025#Navasa
+2#221300026#Navasilla
+2#221300027#Novés
+2#221300028#Orante
+2#221300029#Osia
+2#221300032#Puerto Astún
+2#221300030#Ulle
+2#221300031#Villanovilla
+1#221310000#Jasa
+2#221330003#Fontanal
+1#221330000#Labuerda
+2#221330002#San Vicente
+1#221350000#Laluenga
+1#221360000#Lalueza
+2#221360002#Marcén
+2#221360003#San Lorenzo del Flumen
+2#221370001#Cantalobos
+1#221370000#Lanaja
+2#221370003#Orillena
+1#221390000#Laperdiguera
+2#221410001#Lascellas
+1#221410000#Lascellas-Ponzano
+2#221410002#Ponzano
+1#221420000#Lascuarre
+2#221420002#Poblado El Aguilar
+2#221420003#Sagarras Altas
+2#221430001#Abella
+2#221430002#Alins
+2#221430003#Ardanué
+2#221430004#Denuy
+2#221430005#Espés
+2#221430006#Espés Alto
+1#221430000#Laspaúles
+2#221430008#Llagunas
+2#221430009#Neril
+2#221430010#Suils
+2#221430011#Villaplana
+2#221430012#Villarrué
+2#221440001#Casal, El
+2#221440002#Ceresa
+1#221440000#Laspuña
+2#221440003#Laspuña
+2#221490001#Linás de Marcuello
+1#221490000#Loarre
+2#221490003#Santa Engracia de Loarre
+2#221490004#Sarsamarcuello
+2#221500001#Aguas
+2#221500002#Almunia del Romeral, La
+2#221500003#Ayera
+2#221500004#Bandaliés
+2#221500005#Barluenga
+2#221500006#Castilsabás
+2#221500008#Chibluco
+2#221500007#Coscullano
+1#221500000#Loporzano
+2#221500010#Loscertales
+2#221500011#Molinos, Los
+2#221500012#San Julián de Banzo
+2#221500013#Santa Eulalia la Mayor
+2#221500014#Sasa del Abadiado
+2#221500015#Sipán
+2#221500016#Vadiello
+1#221510000#Loscorrales
+2#221510002#Puipullín
+2#229050001#Casas de Nuevo, Las
+2#229050002#Lupiñén
+1#229050000#Lupiñén-Ortilla
+2#229050003#Montmesa
+2#229050004#Ortilla
+2#221550001#Cajigar
+1#221550000#Monesma y Cajigar
+2#221560001#Castillo Pompien
+2#221560002#Lascasas
+2#221560003#Monflorite
+1#221560000#Monflorite-Lascasas
+2#221560004#Pompenillo
+2#221570001#Aneto
+2#221570002#Ardanuy
+2#221570003#Benifóns
+2#221570004#Bono
+2#221570005#Castanesa
+2#221570006#Castarné
+2#221570017#Ervera
+2#221570007#Escané
+2#221570008#Estet
+2#221570009#Fonchanina
+2#221570010#Forcat
+2#221570011#Ginasté
+1#221570000#Montanuy
+2#221570013#Noales
+2#221570014#Ribera
+2#221570015#Señiú
+2#221570016#Viñal
+2#221580001#Conchel
+2#221580002#Estación de Selgua, La
+1#221580000#Monzón
+2#221580004#Poblado Monsanto
+2#221580005#Selgua
+2#221600002#Mipanas
+1#221600000#Naval
+1#221620000#Novales
+2#221630001#Arascués
+2#221630002#Belsué
+2#221630003#Nocito
+1#221630000#Nueno
+2#221630005#Sabayés
+2#221630006#Santa Eulalia de la Peña
+1#221640000#Olvena
+1#221650000#Ontiñena
+2#221670001#Almudáfar
+1#221670000#Osso de Cinca
+1#221680000#Palo
+2#221700001#Baños de Panticosa
+1#221700000#Panticosa
+2#221700003#Pueyo de Jaca, El
+1#221720000#Peñalba
+2#221730011#Carcavilla
+2#221730001#Centenero
+2#221730002#Ena
+2#221730003#Peña Estación, La
+1#221730000#Peñas de Riglos, Las
+2#221730004#Rasal
+2#221730005#Riglos
+2#221730006#Salinas de Jaca
+2#221730007#Santa María
+2#221730008#Triste
+2#221730009#Villalangua
+2#221730010#Yeste
+2#221740001#Lagunarrota
+1#221740000#Peralta de Alcofea
+2#221740003#Tormillo, El
+2#221750001#Calasanz
+2#221750002#Cuatrocorz
+2#221750003#Gabasa
+1#221750000#Peralta de Calasanz
+2#221750004#Peralta de la Sal
+1#221760000#Peraltilla
+2#221770001#Besiáns
+1#221770000#Perarrúa
+1#221780000#Pertusa
+1#221810000#Piracés
+1#221820000#Plan
+2#221820003#Saravillo
+2#221820004#Serveto
+1#221840000#Poleñino
+1#221860000#Pozán de Vero
+2#221870002#Lago de Barasona
+1#221870000#Puebla de Castro, La
+2#221880001#Montañana
+1#221880000#Puente de Montañana
+2#221880003#Torre Baró
+2#229020001#Javierregay
+1#229020000#Puente la Reina de Jaca
+2#229020003#Santa Engracia de Jaca
+2#221890001#Belsierre
+2#221890002#Bestué
+2#221890008#Bies
+2#221890003#Escalona
+2#221890009#Escuaín
+2#221890010#Huertas de Muro, Las
+2#221890004#Muro de Bellos
+1#221890000#Puértolas
+2#221890005#Puértolas
+2#221890006#Puyarruego
+2#221890011#Santa Justa
+2#221890007#Santa María
+2#221900001#Araguás
+2#221900012#Casa Castán
+2#221900002#Molinos, Los
+2#221900003#Muera, La
+2#221900004#Oncíns
+2#221900005#Pardina, La
+2#221900006#Plano, El
+1#221900000#Pueyo de Araguás, El
+2#221900008#San Lorién
+2#221900011#San Victorián
+2#221900009#Soto, El
+2#221900010#Torrelisa
+1#221930000#Pueyo de Santa Cruz
+1#221950000#Quicena
+1#221970000#Robres
+2#221990001#Abenilla
+2#221990002#Acumuer
+2#221990003#Aineto
+2#221990004#Allué
+2#221990005#Arguisal
+2#221990006#Arraso
+2#221990007#Arto
+2#221990052#Artosilla
+2#221990008#Aurín
+2#221990009#Bara
+2#221990010#Baranguá
+2#221990011#Belarra
+2#221990050#Bentué de Nocito
+2#221990012#Borrés
+2#221990013#Campares
+2#221990014#Cartirana
+2#221990015#Castiello de Guarga
+2#221990016#Castillo de Lerés
+2#221990017#Ceresola
+2#221990018#Gésera
+2#221990019#Gillué
+2#221990020#Grasa
+2#221990021#Hostal de Ipiés
+2#221990053#Ibort
+2#221990022#Ipiés
+2#221990055#Isín
+2#221990023#Isún de Basa
+2#221990024#Laguarta
+2#221990025#Lanave
+2#221990026#Lárrede
+2#221990027#Larrés
+2#221990028#Lasaosa
+2#221990029#Lasieso
+2#221990030#Latas
+2#221990031#Latrás
+2#221990032#Layés
+2#221990033#Molino de Villobas
+2#221990034#Ordovés
+2#221990035#Orna de Gállego
+2#221990036#Osán
+2#221990037#Pardinilla
+2#221990038#Puente de Sabiñánigo, El
+2#221990039#Rapún
+1#221990000#Sabiñánigo
+2#221990041#Sabiñánigo Alto
+2#221990042#San Esteban de Guarga
+2#221990043#San Román de Basa
+2#221990044#Sardas
+2#221990045#Sasal
+2#221990046#Satué
+2#221990047#Senegüé
+2#221990054#Solanilla
+2#221990048#Sorripas
+2#221990051#Used
+2#221990049#Yéspola
+2#222000001#Eresué
+2#222000002#Eriste
+1#222000000#Sahún
+1#222010000#Salas Altas
+1#222020000#Salas Bajas
+1#222030000#Salillas
+2#222040001#Escarrilla
+2#222040002#Formigal
+2#222040006#Frontera del Portalet
+2#222040007#Lanuza
+1#222040000#Sallent de Gállego
+2#222040004#Sandiniés
+2#222040005#Tramacastilla de Tena
+1#222050000#San Esteban de Litera
+1#222070000#San Juan de Plan
+2#229030001#Estiche de Cinca
+2#229030002#Pomar de Cinca
+1#229030000#San Miguel del Cinca
+2#229030003#Santalecina
+1#222060000#Sangarrén
+1#222080000#Santa Cilia
+2#222080002#Somanés
+2#222090001#Binacua
+1#222090000#Santa Cruz de la Serós
+2#229060001#Buera
+2#229060002#Huerta de Vero
+1#229060000#Santa María de Dulcis
+2#222120002#Caballera
+1#222120000#Santaliestra y San Quílez
+2#222130001#Cartuja de Monegros, La
+2#222130002#Lamasadera
+2#222130003#Lastanosa
+2#222130004#Pallaruelo de Monegros
+2#222130005#San Juan del Flumen
+1#222130000#Sariñena
+2#222140004#Aldea de Puy de Cinca, La
+1#222140000#Secastilla
+2#222140002#Torreciudad
+2#222140003#Ubiergo
+2#222150001#Abi
+2#222150002#Barbaruéns
+1#222150000#Seira
+1#222170000#Sena
+1#222180000#Senés de Alcubierre
+1#222200000#Sesa
+1#222210000#Sesué
+2#222210002#Sos
+2#222220001#Arbaniés
+2#222220002#Castejón de Arbaniés
+2#222220003#Liesa
+1#222220000#Siétamo
+2#222230003#Pallerol
+2#222230001#Santoréns
+1#222230000#Sopeira
+2#229040001#Aniés
+2#229040002#Bolea
+2#229040003#Esquedas
+2#229040004#Lierta
+2#229040005#Plasencia del Monte
+2#229040006#Puibolea
+2#229040007#Quinzano
+1#229040000#Sotonera, La
+2#222250001#Algayón
+1#222250000#Tamarite de Litera
+1#222260000#Tardienta
+2#222270007#Badaín
+2#222270001#Hospital
+2#222270002#Lafortunada
+2#222270003#Revilla
+2#222270004#Salinas
+2#222270005#Sin
+2#222270006#Tella
+1#222270000#Tella-Sin
+1#222280000#Tierz
+2#222290001#Almunia de San Lorenzo
+2#222290002#Luzás
+2#222290003#Sagarras Bajas
+1#222290000#Tolva
+2#222300001#Fragén
+2#222300002#Linás de Broto
+2#222300003#Torla
+1#222300000#Torla-Ordesa
+1#222320000#Torralba de Aragón
+1#222330000#Torre la Ribera
+2#222330002#Vilas del Turbón
+2#222330003#Villacarli
+2#222330004#Visalibóns
+1#222340000#Torrente de Cinca
+2#222350001#Lacuadrada
+1#222350000#Torres de Alcanadre
+1#222360000#Torres de Barbués
+2#222360002#Valfonda de Santa Ana
+1#222390000#Tramaced
+1#222420000#Valfarta
+2#222430001#Aguascaldas
+2#222430002#Biescas (Ribagorza)
+2#222430005#Esterún
+2#222430003#Llert
+2#222430004#Santa Maura
+1#222430000#Valle de Bardají
+2#229010001#Embún
+2#229010002#Hecho
+2#229010003#Santa Lucía
+2#229010004#Siresa
+2#229010005#Urdués
+1#229010000#Valle de Hecho
+2#222440001#Egea
+2#222440002#Padarniú
+2#222440007#Piniello
+2#222440003#Pueyo
+2#222440004#Reperós
+2#222440005#Sala
+2#222440006#Serrate
+1#222440000#Valle de Lierp
+1#222450000#Velilla de Cinca
+1#229090000#Vencillón
+2#222470001#Chiriveta
+2#222470002#Estall
+2#222470006#Fet
+2#222470003#Litera
+2#222470005#Montfalcó
+2#222470004#Viacamp
+1#222470000#Viacamp y Litera
+1#222480000#Vicién
+1#222490000#Villanova
+1#222500000#Villanúa
+1#222510000#Villanueva de Sigena
+2#222520001#Fanlillo
+2#222520002#Orús
+2#222520003#San Julián de Basa
+2#222520004#Sobás
+1#222520000#Yebra de Basa
+1#222530000#Yésero
+1#222540000#Zaidín
+0#440000000#Teruel
+1#440010000#Ababuj
+1#440020000#Abejuela
+2#440020002#Cervera, La
+1#440030000#Aguatón
+1#440040000#Aguaviva
+1#440050000#Aguilar del Alfambra
+1#440060000#Alacón
+1#440070000#Alba
+1#440080000#Albalate del Arzobispo
+1#440090000#Albarracín
+2#440090002#Cañigral, El
+2#440090003#Casillas de Bezas, Las
+2#440090004#Collado de la Grulla
+2#440090008#Membrillo, El
+2#440090009#San Pedro
+2#440090010#Valdevécar
+2#440090006#Valle Cabriel
+1#440100000#Albentosa
+2#440100003#Estación Mora de Rubielos
+2#440100004#Fuen del Cepo
+2#440100005#Mases, Los
+2#440100002#Venta del Aire
+1#440110000#Alcaine
+1#440120000#Alcalá de la Selva
+2#440120002#Virgen de la Vega, La
+1#440130000#Alcañiz
+2#440130002#Puigmoreno
+2#440130003#Valmuel
+1#440140000#Alcorisa
+1#440160000#Alfambra
+2#440170001#Aldehuela (Cuencas Mineras)
+1#440170000#Aliaga
+2#440170003#Campos
+2#440170004#Cañadilla, La
+2#440170005#Cirujeda
+2#440170006#Santa Bárbara
+1#440210000#Allepuz
+1#440220000#Alloza
+1#440230000#Allueva
+1#440180000#Almohaja
+1#440190000#Alobras
+1#440200000#Alpeñés
+1#440240000#Anadón
+1#440250000#Andorra
+1#440260000#Arcos de las Salinas
+2#440260002#Higuera, La
+2#440260003#Hoya de la Carrasca
+1#440270000#Arens de Lledó
+1#440280000#Argente
+1#440290000#Ariño
+1#440310000#Azaila
+1#440320000#Bádenas
+1#440330000#Báguena
+1#440340000#Bañón
+1#440350000#Barrachina
+1#440360000#Bea
+1#440370000#Beceite
+1#440390000#Bello
+1#440380000#Belmonte de San José
+1#440400000#Berge
+1#440410000#Bezas
+1#440420000#Blancas
+1#440430000#Blesa
+1#440440000#Bordón
+1#440450000#Bronchales
+1#440460000#Bueña
+1#440470000#Burbáguena
+1#440480000#Cabra de Mora
+1#440490000#Calaceite
+1#440500000#Calamocha
+2#440500002#Collados
+2#440500003#Cuencabuena
+2#440500004#Cutanda
+2#440500006#Lechago
+2#440500007#Luco de Jiloca
+2#440500008#Navarrete del Río
+2#440500009#Nueros
+2#440500010#Olalla
+2#440500011#Poyo del Cid, El
+2#440500013#Valverde
+2#440500014#Villarejo de los Olmos, El
+1#440510000#Calanda
+1#440520000#Calomarde
+1#440530000#Camañas
+1#440540000#Camarena de La Sierra
+2#440540002#Mas de Navarrete
+1#440550000#Camarillas
+1#440560000#Caminreal
+2#440560003#Villalba de los Morales
+1#440590000#Cantavieja
+2#440590002#Casas de San Juan
+2#440590003#Solana
+2#440590004#Umbría
+2#440590005#Vega
+1#440600000#Cañada de Benatanduz
+1#440610000#Cañada de Verich, La
+1#440620000#Cañada Vellida
+1#440630000#Cañizar del Olivar
+1#440640000#Cascante del Río
+1#440650000#Castejón de Tornos
+1#440660000#Castel de Cabra
+1#440700000#Castellar, El
+2#440710001#Abenfigo
+2#440710002#Alagones, Los
+2#440710003#Algecira, La
+1#440710000#Castellote
+2#440710005#Crespol, El
+2#440710006#Cuevas de Cañart
+2#440710007#Dos Torres de Mercader
+2#440710008#Ladruñán
+2#440710009#Luco de Bordón
+2#440710010#Planas, Las
+2#440710011#Torremocha
+1#440670000#Castelnou
+1#440680000#Castelserás
+1#440740000#Cedrillas
+1#440750000#Celadas
+1#440760000#Cella
+1#440770000#Cerollera, La
+1#440800000#Codoñera, La
+1#440820000#Corbalán
+1#440840000#Cortes de Aragón
+2#440850001#Corbatón
+1#440850000#Cosa
+1#440860000#Cretas
+1#440870000#Crivillén
+2#440870002#Mases de Crivillen
+1#440880000#Cuba, La
+1#440890000#Cubla
+1#440900000#Cucalón
+1#440920000#Cuervo, El
+1#440930000#Cuevas de Almudén
+1#440940000#Cuevas Labradas
+1#440960000#Ejulve
+1#440970000#Escorihuela
+1#440990000#Escucha
+2#440990002#Valdeconejos
+1#441000000#Estercuel
+1#441010000#Ferreruela de Huerva
+1#441020000#Fonfría
+1#441030000#Formiche Alto
+2#441030002#Formiche Bajo
+1#441050000#Fórnoles
+1#441060000#Fortanete
+1#441070000#Foz-Calanda
+1#441080000#Fresneda, La
+1#441090000#Frías de Albarracín
+1#441100000#Fuenferrada
+1#441110000#Fuentes Calientes
+1#441120000#Fuentes Claras
+1#441130000#Fuentes de Rubielos
+1#441140000#Fuentespalda
+1#441150000#Galve
+1#441160000#Gargallo
+1#441170000#Gea de Albarracín
+1#441180000#Ginebrosa, La
+1#441190000#Griegos
+1#441200000#Guadalaviar
+1#441210000#Gúdar
+1#441220000#Híjar
+2#441230001#Cobatillas
+1#441230000#Hinojosa de Jarque
+1#441240000#Hoz de la Vieja, La
+1#441250000#Huesa del Común
+2#441250002#Rudilla
+1#441260000#Iglesuela del Cid, La
+2#441270001#Arroyofrío
+1#441270000#Jabaloyas
+1#441280000#Jarque de la Val
+1#441290000#Jatiel
+1#441300000#Jorcas
+1#441310000#Josa
+1#441320000#Lagueruela
+1#441330000#Lanzuela
+1#441350000#Libros
+1#441360000#Lidón
+2#441370001#Castelvispal
+1#441370000#Linares de Mora
+1#441410000#Lledó
+2#441380001#Colladico, El
+1#441380000#Loscos
+2#441380003#Mezquita de Loscos
+2#441380004#Piedrahíta
+1#441420000#Maicas
+2#441430001#Alcotas
+2#441430002#Alhambras, Las
+2#441430003#Cerezos, Los
+1#441430000#Manzanera
+2#441430005#Olmos, Los
+2#441430006#Paraíso Bajo
+2#441430007#Paúl, El
+1#441440000#Martín del Río
+2#441440002#Rambla de Martín, La
+1#441450000#Mas de las Matas
+1#441460000#Mata de los Olmos, La
+1#441470000#Mazaleón
+1#441480000#Mezquita de Jarque
+1#441490000#Mirambel
+1#441500000#Miravete de la Sierra
+1#441510000#Molinos
+1#441520000#Monforte de Moyuela
+1#441530000#Monreal del Campo
+1#441540000#Monroyo
+1#441550000#Montalbán
+2#441550002#Peñas Royas
+1#441560000#Monteagudo del Castillo
+1#441570000#Monterde de Albarracín
+1#441580000#Mora de Rubielos
+1#441590000#Moscardón
+1#441600000#Mosqueruela
+1#441610000#Muniesa
+2#441630001#Noguera
+1#441630000#Noguera de Albarracín
+1#441640000#Nogueras
+1#441650000#Nogueruelas
+1#441670000#Obón
+1#441680000#Odón
+1#441690000#Ojos Negros
+2#441690002#Sierra Menera
+2#441710001#Artiga, La
+2#441710003#Civera, La
+2#441710004#Dines o Ibáñez Bajos, Los
+2#441710005#Giles, Los
+2#441710006#Lucas, Los
+2#441710007#Masico, El
+1#441710000#Olba
+2#441710010#Pertegaces, Los
+2#441710011#Ramones, Los
+2#441710012#Tarragones, Los
+2#441710013#Tosca, La
+2#441710014#Ventas, Las
+2#441710015#Villanuevas, Los
+1#441720000#Oliete
+1#441730000#Olmos, Los
+1#441740000#Orihuela del Tremedal
+1#441750000#Orrios
+1#441760000#Palomar de Arroyos
+2#441770001#Cervera del Rincón
+2#441770002#Cuevas de Portalrubio
+1#441770000#Pancrudo
+2#441770004#Portalrubio
+2#441780001#Jaganta
+1#441780000#Parras de Castellote, Las
+1#441790000#Peñarroya de Tastavins
+1#441800000#Peracense
+1#441810000#Peralejos
+1#441820000#Perales del Alfambra
+2#441820003#Villalba Alta
+1#441830000#Pitarque
+1#441840000#Plou
+1#441850000#Pobo, El
+1#441870000#Portellada, La
+1#441890000#Pozondón
+1#441900000#Pozuel del Campo
+2#441910001#Estación, La
+1#441910000#Puebla de Híjar, La
+1#441920000#Puebla de Valverde, La
+1#441930000#Puertomingalvo
+1#441940000#Ráfales
+1#441950000#Rillo
+2#441950002#Son del Puerto
+1#441960000#Riodeva
+1#441970000#Ródenas
+1#441980000#Royuela
+1#441990000#Rubiales
+1#442000000#Rubielos de la Cérida
+1#442010000#Rubielos de Mora
+1#442030000#Salcedillo
+1#442040000#Saldón
+1#442050000#Samper de Calanda
+2#442060001#Baltasares, Los
+2#442060002#Caballero
+2#442060004#Fuenseca, La
+2#442060006#Hoz, La
+2#442060007#Juan Din
+2#442060009#Mas Blanco
+2#442060010#Mases y Tamboril
+2#442060011#Pastores, Los
+2#442060012#Peiros, Los
+2#442060003#Poviles
+2#442060013#Pozo La Muela
+1#442060000#San Agustín
+2#442060015#Solana, La
+2#442060016#Tarín Nuevo y Viejo
+1#442070000#San Martín del Río
+1#442080000#Santa Cruz de Nogueras
+1#442090000#Santa Eulalia
+2#442100001#Escaleruela, La
+1#442100000#Sarrión
+1#442110000#Segura de los Baños
+1#442120000#Seno
+1#442130000#Singra
+1#442150000#Terriente
+2#442150002#Villarejo, El
+2#442160001#Aldehuela (Comunidad de Teruel)
+2#442160002#Campillo, El
+2#442160003#Castralvo
+2#442160004#Caudé
+2#442160005#Concud
+2#442160007#San Blas
+1#442160000#Teruel
+2#442160009#Tortajada
+2#442160010#Valdecebro
+2#442160011#Villalba Baja
+2#442160012#Villaspesa
+2#442170001#Masegoso
+2#442170002#Toril
+1#442170000#Toril y Masegoso
+1#442180000#Tormón
+1#442190000#Tornos
+1#442200000#Torralba de los Sisones
+1#442230000#Torre de Arcas
+1#442240000#Torre de las Arcas
+1#442250000#Torre del Compte
+1#442270000#Torre Los Negros
+1#442210000#Torrecilla de Alcañiz
+2#442220001#Godos
+1#442220000#Torrecilla del Rebollar
+1#442260000#Torrelacárcel
+1#442280000#Torremocha de Jiloca
+1#442290000#Torres de Albarracín
+1#442300000#Torrevelilla
+1#442310000#Torrijas
+1#442320000#Torrijo del Campo
+2#442340001#Mas de la Cabrera
+1#442340000#Tramacastiel
+2#442340002#Tramacastiel
+1#442350000#Tramacastilla
+1#442360000#Tronchón
+1#442370000#Urrea de Gaén
+2#442380001#Barriada Obrera del Sur
+2#442380002#Parras de Martín, Las
+1#442380000#Utrillas
+1#442390000#Valacloche
+1#442400000#Valbona
+1#442410000#Valdealgorfa
+1#442430000#Valdecuenca
+1#442440000#Valdelinares
+1#442450000#Valdeltormo
+1#442460000#Valderrobres
+1#442470000#Valjunquera
+1#442490000#Vallecillo, El
+1#442500000#Veguillas de la Sierra
+1#442510000#Villafranca del Campo
+1#442520000#Villahermosa del Campo
+1#442560000#Villanueva del Rebollar de La Sierra
+1#442570000#Villar del Cobo
+1#442580000#Villar del Salz
+2#442600001#Montoro de Mezquita
+1#442600000#Villarluengo
+1#442610000#Villarquemado
+1#442620000#Villarroya de los Pinares
+1#442630000#Villastar
+2#442640001#Campo, El
+1#442640000#Villel
+1#442650000#Vinaceite
+1#442660000#Visiedo
+2#442670001#Armillas
+1#442670000#Vivel del Río Martín
+1#442680000#Zoma, La
+0#500000000#Zaragoza
+1#500010000#Abanto
+1#500020000#Acered
+1#500030000#Agón
+1#500040000#Aguarón
+1#500050000#Aguilón
+1#500060000#Ainzón
+1#500070000#Aladrén
+1#500080000#Alagón
+1#500090000#Alarba
+1#500100000#Alberite de San Juan
+1#500110000#Albeta
+1#500120000#Alborge
+1#500130000#Alcalá de Ebro
+1#500140000#Alcalá de Moncayo
+1#500150000#Alconchel de Ariza
+1#500160000#Aldehuela de Liestos
+1#500170000#Alfajarín
+2#500170002#Condado, El
+2#500170003#Huertos, Los
+1#500180000#Alfamén
+1#500190000#Alforque
+1#500200000#Alhama de Aragón
+1#500210000#Almochuel
+1#500220000#Almolda, La
+1#500230000#Almonacid de la Cuba
+1#500240000#Almonacid de la Sierra
+1#500250000#Almunia de Doña Godina, La
+1#500260000#Alpartir
+1#500270000#Ambel
+1#500280000#Anento
+1#500290000#Aniñón
+1#500300000#Añón de Moncayo
+1#500310000#Aranda de Moncayo
+1#500320000#Arándiga
+1#500330000#Ardisa
+2#500330002#Casas de Esper
+1#500340000#Ariza
+1#500350000#Artieda
+1#500360000#Asín
+1#500370000#Atea
+1#500380000#Ateca
+1#500390000#Azuara
+1#500400000#Badules
+1#500410000#Bagüés
+1#500420000#Balconchán
+1#500430000#Bárboles
+2#500430002#Oitura
+2#500430003#Peramán
+1#500440000#Bardallur
+1#500450000#Belchite
+1#500460000#Belmonte de Gracián
+1#500470000#Berdejo
+1#500480000#Berrueco
+1#509010000#Biel
+2#509010002#Fuencalderas
+1#500500000#Bijuesca
+1#500510000#Biota
+2#500510002#Malpica de Arba
+1#500520000#Bisimbre
+2#500530002#Alto Don Diego
+1#500530000#Boquiñeni
+2#500530003#Calvario, El
+2#500530004#Camino del Pozuelo
+2#500530005#San Miguel
+1#500540000#Bordalba
+1#500550000#Borja
+2#500550002#Santuario de Misericordia
+1#500560000#Botorrita
+1#500570000#Brea de Aragón
+1#500580000#Bubierca
+1#500590000#Bujaraloz
+1#500600000#Bulbuente
+1#500610000#Bureta
+1#500620000#Burgo de Ebro, El
+2#500620003#Paraje Simón
+2#500620002#Urbanización Virgen de la Columna
+1#500630000#Buste, El
+1#500640000#Cabañas de Ebro
+1#500650000#Cabolafuente
+1#500660000#Cadrete
+2#500660002#Colinas, Las
+2#500660003#Murallas de Santa Fe
+2#500660005#Olivares, Los
+2#500660004#Sisallete, El
+1#500670000#Calatayud
+2#500670002#Campiel
+2#500670003#Carramolina
+2#500670004#Embid de la Ribera
+2#500670005#Huérmeda
+2#500670006#Marivella
+2#500670007#Ribota
+2#500670008#San Ramón
+2#500670010#Torres
+1#500680000#Calatorao
+1#500690000#Calcena
+1#500700000#Calmarza
+1#500710000#Campillo de Aragón
+1#500720000#Carenas
+2#500720002#Tranquera, La
+1#500730000#Cariñena
+1#500740000#Caspe
+2#500740007#Miraflores
+2#500740002#Playas de Chacón
+2#500740006#Poblado de Pescadores
+2#500740008#Zaragoceta
+1#500750000#Castejón de Alarba
+1#500760000#Castejón de las Armas
+1#500770000#Castejón de Valdejasa
+1#500780000#Castiliscar
+1#500790000#Cervera de la Cañada
+1#500800000#Cerveruela
+1#500810000#Cetina
+1#500920000#Chiprana
+1#500930000#Chodes
+1#500820000#Cimballa
+1#500830000#Cinco Olivas
+1#500840000#Clarés de Ribota
+1#500850000#Codo
+1#500860000#Codos
+1#500870000#Contamina
+1#500880000#Cosuenda
+1#500890000#Cuarte de Huerva
+1#500900000#Cubel
+1#500910000#Cuerlas, Las
+1#500940000#Daroca
+1#500950000#Ejea de los Caballeros
+2#500960001#Casa de La Vega
+1#500960000#Embid de Ariza
+1#500980000#Encinacorba
+1#500990000#Épila
+2#500990002#Fábrica Azucarera
+2#500990003#Santuario de Rodanas
+1#501000000#Erla
+1#501010000#Escatrón
+1#501020000#Fabara
+1#501040000#Farlete
+1#501050000#Fayón
+1#501060000#Fayos, Los
+1#501070000#Figueruelas
+1#501080000#Fombuena
+1#501090000#Frago, El
+2#501100001#Aluenda
+1#501100000#Frasno, El
+2#501100003#Inogés
+2#501100004#Pietas
+1#501110000#Fréscano
+1#501130000#Fuendejalón
+1#501140000#Fuendetodos
+1#501150000#Fuentes de Ebro
+2#501150002#Rodén
+1#501160000#Fuentes de Jiloca
+1#501170000#Gallocanta
+1#501180000#Gallur
+2#501180002#Urbanización San Antonio
+1#501190000#Gelsa
+1#501200000#Godojos
+1#501210000#Gotor
+1#501220000#Grisel
+1#501230000#Grisén
+1#501240000#Herrera de los Navarros
+2#501240002#Virgen de Herrera
+1#501250000#Ibdes
+1#501260000#Illueca
+1#501280000#Isuerre
+1#501290000#Jaraba
+1#501300000#Jarque de Moncayo
+1#501310000#Jaulín
+1#501320000#Joyosa, La
+2#501320002#Marlofa
+1#501330000#Lagata
+1#501340000#Langa del Castillo
+1#501350000#Layana
+1#501360000#Lécera
+1#501380000#Lechón
+1#501370000#Leciñena
+1#501390000#Letux
+1#501400000#Litago
+1#501410000#Lituénigo
+1#501420000#Lobera de Onsella
+1#501430000#Longares
+1#501440000#Longás
+2#501460001#Berbedel
+1#501460000#Lucena de Jalón
+1#501470000#Luceni
+1#501480000#Luesia
+1#501490000#Luesma
+1#501500000#Lumpiaque
+2#501510001#Lacorvilla
+1#501510000#Luna
+1#501520000#Maella
+1#501530000#Magallón
+1#501540000#Mainar
+1#501550000#Malanquilla
+1#501560000#Maleján
+1#501600000#Mallén
+1#501570000#Malón
+1#501590000#Maluenda
+1#501610000#Manchones
+1#501620000#Mara
+2#501630003#Bosque Alto
+2#501630004#Campo del Niño
+1#501630000#María de Huerva
+2#501630005#Monte Pinar
+2#501630006#Paso de Los Carros
+2#501630007#Val de Pinar
+1#509020000#Marracos
+2#509020002#Salto del Lobo
+1#501640000#Mediana de Aragón
+1#501650000#Mequinenza
+1#501660000#Mesones de Isuela
+2#501670001#Aylés
+1#501670000#Mezalocha
+1#501680000#Mianos
+1#501690000#Miedes de Aragón
+1#501700000#Monegrillo
+1#501710000#Moneva
+2#501720001#Granja de San Pedro
+1#501720000#Monreal de Ariza
+2#501730001#Llumes
+1#501730000#Monterde
+1#501740000#Montón
+1#501750000#Morata de Jalón
+1#501760000#Morata de Jiloca
+1#501770000#Morés
+2#501770002#Purroy
+1#501780000#Moros
+1#501790000#Moyuela
+1#501800000#Mozota
+2#501810001#Estación, La
+2#501810004#Montesol
+1#501810000#Muel
+2#501810005#Parquemuel
+2#501810003#Virgen de la Fuente
+2#501820001#Alto de la Muela
+1#501820000#Muela, La
+1#501830000#Munébrega
+1#501840000#Murero
+2#501850001#Concilio
+2#501850002#Morán
+1#501850000#Murillo de Gállego
+2#501860001#Gordués
+1#501860000#Navardún
+1#501870000#Nigüella
+1#501880000#Nombrevilla
+1#501890000#Nonaspe
+1#501900000#Novallas
+1#501910000#Novillas
+2#501920001#Lugar Nuevo
+2#501920002#Monasterio de Piedra
+1#501920000#Nuévalos
+2#501920004#Tranquera, La
+1#501930000#Nuez de Ebro
+1#501940000#Olvés
+1#501950000#Orcajo
+1#501960000#Orera
+1#501970000#Orés
+1#501980000#Oseja
+2#501990001#Aguilar de Ebro
+1#501990000#Osera de Ebro
+2#501990003#Urbanización Extramuros
+1#502000000#Paniza
+1#502010000#Paracuellos de Jiloca
+1#502020000#Paracuellos de la Ribera
+2#502030001#Alfranca, La
+1#502030000#Pastriz
+1#502040000#Pedrola
+1#502050000#Pedrosas, Las
+1#502060000#Perdiguera
+1#502070000#Piedratajada
+1#502080000#Pina de Ebro
+1#502090000#Pinseque
+2#502090002#Urbanización Lago Azul
+2#502090003#Urbanización Prados del Rey
+1#502100000#Pintanos, Los
+2#502100002#Undués Pintano
+1#502110000#Plasencia de Jalón
+2#502110002#Venta, La
+1#502120000#Pleitas
+1#502130000#Plenas
+1#502140000#Pomer
+1#502150000#Pozuel de Ariza
+1#502160000#Pozuelo de Aragón
+1#502170000#Pradilla de Ebro
+1#502180000#Puebla de Albortón
+1#502190000#Puebla de Alfindén, La
+1#502200000#Puendeluna
+1#502210000#Purujosa
+1#502220000#Quinto
+1#502230000#Remolinos
+1#502240000#Retascón
+1#502250000#Ricla
+1#502270000#Romanos
+1#502280000#Rueda de Jalón
+1#502290000#Ruesca
+1#502410000#Sabiñán
+2#502300001#Alera
+1#502300000#Sádaba
+1#502310000#Salillas de Jalón
+2#502320001#Lorbés
+1#502320000#Salvatierra de Esca
+1#502330000#Samper del Salz
+1#502340000#San Martín de la Virgen de Moncayo
+2#502340002#San Martín Urbanización
+1#502350000#San Mateo de Gállego
+2#502360001#Aldehuela de Santa Cruz, La
+1#502360000#Santa Cruz de Grío
+1#502370000#Santa Cruz de Moncayo
+1#502380000#Santa Eulalia de Gállego
+1#502390000#Santed
+1#502400000#Sástago
+1#502420000#Sediles
+1#502430000#Sestrica
+2#502430002#Viver de la Sierra
+1#502440000#Sierra de Luna
+2#502450001#Asso-Veral
+2#502450002#Escó
+1#502450000#Sigüés
+2#502450004#Tiermas
+1#502460000#Sisamón
+1#502470000#Sobradiel
+2#502470002#Soto de Candespina
+2#502480001#Barués
+2#502480002#Campo Real
+2#502480003#Mamillas
+2#502480004#Sofuentes
+1#502480000#Sos del Rey Católico
+1#502490000#Tabuenca
+1#502500000#Talamantes
+2#502510002#Cunchillos
+1#502510000#Tarazona
+2#502510003#Torres de Montecierzo
+2#502510004#Tórtoles
+2#502520001#Sancho Abarca
+2#502520002#Santa Engracia
+1#502520000#Tauste
+2#502530001#Azucarera
+1#502530000#Terrer
+1#502540000#Tierga
+1#502550000#Tobed
+1#502560000#Torralba de los Frailes
+1#502570000#Torralba de Ribota
+1#502580000#Torralbilla
+1#502590000#Torrehermosa
+2#502600001#Tomillares
+1#502600000#Torrelapaja
+1#502610000#Torrellas
+2#502620001#Granja de Santa Inés
+1#502620000#Torres de Berrellén
+1#502630000#Torrijo de la Cañada
+1#502640000#Tosos
+1#502650000#Trasmoz
+1#502660000#Trasobares
+1#502670000#Uncastillo
+1#502680000#Undués de Lerda
+1#502690000#Urrea de Jalón
+1#502700000#Urriés
+1#502710000#Used
+2#502720002#Setabia
+1#502720000#Utebo
+1#502740000#Val de San Martín
+1#502730000#Valdehorna
+1#502750000#Valmadrid
+1#502760000#Valpalmas
+1#502770000#Valtorres
+1#502780000#Velilla de Ebro
+1#502790000#Velilla de Jiloca
+1#502800000#Vera de Moncayo
+2#502800002#Veruela
+1#502810000#Vierlas
+1#502830000#Villadoz
+1#502840000#Villafeliche
+1#502850000#Villafranca de Ebro
+1#502860000#Villalba de Perejil
+1#502870000#Villalengua
+1#509030000#Villamayor de Gállego
+2#502880002#Comercio, El
+1#502880000#Villanueva de Gállego
+1#502900000#Villanueva de Huerva
+1#502890000#Villanueva de Jiloca
+1#502910000#Villar de los Navarros
+1#502920000#Villarreal de Huerva
+1#502930000#Villarroya de la Sierra
+1#502940000#Villarroya del Campo
+1#502820000#Vilueña, La
+1#502950000#Vistabella
+1#502960000#Zaida, La
+2#502970001#Alfocea
+2#502970002#Cartuja Baja
+2#502970003#Casetas
+2#502970004#Garrapinillos
+2#502970005#Juslibol
+2#502970007#Montañana
+2#502970008#Monzalbarba
+2#502970009#Movera
+2#502970010#Peñaflor
+2#502970018#San Gregorio
+2#502970011#San Juan de Mozarrifar
+2#502970013#Torrecilla de Valmadrid
+2#502970014#Venta del Olivar
+2#502970016#Villarrapa
+1#502970000#Zaragoza
+2#502980004#Estación Portazgo
+2#502980006#Lomas del Gállego, Las
+2#502980007#Ontinar de Salz
+1#502980000#Zuera
